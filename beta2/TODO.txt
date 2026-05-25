@@ -1,0 +1,16 @@
+Download
+Implement queueing system and cancellable downloads while maintaining priority system
+Implement getPlaylistInfo that get info in small batches and continuosly adds it to list till finished
+Implement Download log for batch download
+Make time include seconds too (kinda, maybe set or add force refresh period), make it check length of playlist too
+
+AND WE WILL BE DONEEE LETS GOOOOO BETA V2 OOOUUUUUUT YOOOOOOOOOOO
+
+Maybe
+Etc
+1. graph3d, animation, iconize, nano
+2. logging
+3. graph bass reduction
+
+Recording
+1. record screen (abandoned)
